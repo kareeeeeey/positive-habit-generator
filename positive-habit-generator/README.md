@@ -33,4 +33,4 @@ The **Positive Habit Generator** is a command-line interface (CLI) application d
 - Proper package and project structure
 - Best practices for configuration and modular development
 
----
+--

@@ -21,7 +21,7 @@ The **Positive Habit Generator** is a command-line interface (CLI) application d
 - SQLite
 - Pipenv (for virtual environment & dependency management)
 
----
+--
 
 ## 🧠 Skills Demonstrated
 

@@ -25,3 +25,7 @@ def main_menu():
             break
         else:
             print("Invalid choice. Try again.")
+
+def main_cli():
+    main_menu()
+
